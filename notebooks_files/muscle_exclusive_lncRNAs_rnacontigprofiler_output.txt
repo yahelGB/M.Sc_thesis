@@ -1,0 +1,80 @@
+lncRNA_ID	strand	contig	mRNA_ID	mRNA_Position	DE_status	direction	mRNA_strand	product	distance_Kb
+XR_003475609.1	+	NW_020868904.1	XM_027355539.1	1_U	not DE	upstream	+	endo-1%2C4-beta-xylanase B-like	50.245 kb
+XR_003475609.1	+	NW_020868904.1	XM_027355538.1	2_U	not DE	upstream	-	extensin-like	243.684 kb
+XR_003475609.1	+	NW_020868904.1	XM_027355533.1	3_U	DE	upstream	+	chaoptin-like	299.305 kb
+XR_003475609.1	+	NW_020868904.1	XM_027355544.1	4_U	not DE	upstream	-	uncharacterized LOC113804660	365.205 kb
+XR_003475609.1	+	NW_020868904.1	XM_027355540.1	1_D	not DE	downstream	-	cuticle protein 19-like	111.264 kb
+XR_003475609.1	+	NW_020868904.1	XM_027355541.1	2_D	not DE	downstream	+	uncharacterized LOC113804657	319.235 kb
+XR_003475609.1	+	NW_020868904.1	XM_027355542.1	3_D	not DE	downstream	-	tripartite motif-containing protein 59-like	444.488 kb
+XR_003475609.1	+	NW_020868904.1	XM_027355536.1	4_D	DE	downstream	-	uncharacterized LOC113804650%2C transcript variant X3	453.956 kb
+XR_003475609.1	+	NW_020868904.1	XM_027355537.1	5_D	not DE	downstream	-	MPN domain-containing protein-like	730.483 kb
+XR_003476489.1	+	NW_020869983.1	XM_027366471.1	1_D	not DE	downstream	+	ornithine decarboxylase antizyme 1-like	2.073 kb
+XR_003476489.1	+	NW_020869983.1	XM_027366472.1	2_D	DE	downstream	+	uncharacterized LOC113814442	38.050 kb
+XR_003476489.1	+	NW_020869983.1	XM_027366475.1	3_D	DE	downstream	-	laminin subunit gamma-1-like%2C transcript variant X2	70.409 kb
+XR_003476489.1	+	NW_020869983.1	XM_027366470.1	4_D	not DE	downstream	-	uncharacterized LOC113814436	162.307 kb
+XR_003476489.1	+	NW_020869983.1	XM_027366476.1	5_D	not DE	downstream	-	bromodomain-containing protein 4-like	309.859 kb
+XR_003477015.1	-	NW_020870513.1	XM_027371589.1	1_U	DE	upstream	+	phosphoenolpyruvate carboxykinase%2C cytosolic [GTP]-like	33.033 kb
+XR_003477015.1	-	NW_020870513.1	XM_027371591.1	2_U	not DE	upstream	+	neurotrimin-like	73.075 kb
+XR_003477015.1	-	NW_020870513.1	XM_027371590.1	1_D	not DE	downstream	+	serine hydroxymethyltransferase%2C cytosolic-like	72.507 kb
+XR_003477015.1	-	NW_020870513.1	XM_027371596.1	2_D	not DE	downstream	-	cuticle protein 7-like	199.138 kb
+XR_003477015.1	-	NW_020870513.1	XM_027371592.1	3_D	not DE	downstream	+	cuticle protein 21-like%2C transcript variant X1	221.260 kb
+XR_003477015.1	-	NW_020870513.1	XM_027371595.1	4_D	not DE	downstream	+	uncharacterized LOC113819359	233.005 kb
+XR_003477469.1	-	NW_020871061.1	XM_027376764.1	1_U	DE	upstream	+	integral membrane protein 2B-like%2C transcript variant X2	0.084 kb
+XR_003477469.1	-	NW_020871061.1	XM_027376781.1	2_U	not DE	upstream	-	uncharacterized LOC113824039	40.565 kb
+XR_003477469.1	-	NW_020871061.1	XM_027376780.1	3_U	not DE	upstream	+	proline-rich receptor-like protein kinase PERK8%2C transcript variant X2	42.427 kb
+XR_003477469.1	-	NW_020871061.1	XM_027376778.1	4_U	not DE	upstream	+	uncharacterized LOC113824036	60.586 kb
+XR_003477469.1	-	NW_020871061.1	XM_027376772.1	1_D	not DE	downstream	+	uncharacterized LOC113824031	83.430 kb
+XR_003477469.1	-	NW_020871061.1	XM_027376770.1	2_D	not DE	downstream	-	uncharacterized LOC113824030	91.856 kb
+XR_003477469.1	-	NW_020871061.1	XM_027376766.1	3_D	not DE	downstream	+	glycine-rich cell wall structural protein 1.0-like	126.975 kb
+XR_003477469.1	-	NW_020871061.1	XM_027376767.1	4_D	not DE	downstream	+	armadillo repeat-containing protein 2-like	216.621 kb
+XR_003477469.1	-	NW_020871061.1	XM_027376775.1	5_D	DE	downstream	-	uncharacterized LOC113824034	235.289 kb
+XR_003476908.1	+	NW_020870418.1	XM_027370782.1	1_U	not DE	upstream	-	histone-lysine N-methyltransferase%2C H3 lysine-79 specific-like	12.358 kb
+XR_003476908.1	+	NW_020870418.1	XM_027370793.1	2_U	DE	upstream	-	pollen-specific leucine-rich repeat extensin-like protein 1	13.516 kb
+XR_003476908.1	+	NW_020870418.1	XM_027370792.1	3_U	not DE	upstream	-	uncharacterized LOC113818589	57.422 kb
+XR_003476908.1	+	NW_020870418.1	XM_027370789.1	4_U	DE	upstream	-	obscurin-like	15.530 kb
+XR_003476908.1	+	NW_020870418.1	XM_027370790.1	5_U	DE	upstream	-	obscurin-like	91.159 kb
+XR_003476908.1	+	NW_020870418.1	XM_027370783.1	1_D	DE	downstream	-	obscurin-like	2.656 kb
+XR_003476908.1	+	NW_020870418.1	XM_027370784.1	2_D	DE	downstream	-	uncharacterized LOC113818580	51.905 kb
+XR_003476908.1	+	NW_020870418.1	XM_027370794.1	3_D	not DE	downstream	+	chondroadherin-like protein	121.042 kb
+XR_003476908.1	+	NW_020870418.1	XM_027370785.1	4_D	not DE	downstream	-	uncharacterized LOC113818581	195.558 kb
+XR_003476908.1	+	NW_020870418.1	XM_027370795.1	5_D	not DE	downstream	-	uncharacterized LOC113818594	202.947 kb
+XR_003477476.1	-	NW_020871071.1	XM_027376868.1	1_U	DE	upstream	-	nascent polypeptide-associated complex subunit alpha%2C muscle-specific form-like	10.422 kb
+XR_003477476.1	-	NW_020871071.1	XM_027376855.1	2_U	not DE	upstream	-	serine/arginine repetitive matrix protein 1-like	48.191 kb
+XR_003477476.1	-	NW_020871071.1	XM_027376861.1	3_U	not DE	upstream	+	zinc finger protein 341-like%2C transcript variant X2	274.337 kb
+XR_003477476.1	-	NW_020871071.1	XM_027376854.1	4_U	not DE	upstream	+	uncharacterized LOC113824110	441.542 kb
+XR_003477476.1	-	NW_020871071.1	XM_027376856.1	1_D	not DE	downstream	+	transcription activator BRG1-like	133.485 kb
+XR_003477476.1	-	NW_020871071.1	XM_027376866.1	2_D	not DE	downstream	-	N-acetyltransferase ESCO2-like	149.158 kb
+XR_003477476.1	-	NW_020871071.1	XM_027376865.1	3_D	not DE	downstream	-	uncharacterized LOC113824120	152.926 kb
+XR_003477476.1	-	NW_020871071.1	XM_027376867.1	4_D	DE	downstream	+	zwei Ig domain protein zig-8-like	199.133 kb
+XR_003477476.1	-	NW_020871071.1	XM_027376862.1	5_D	not DE	downstream	-	zwei Ig domain protein zig-8-like	439.190 kb
+XR_003477013.1	-	NW_020870513.1	XM_027371589.1	1_U	DE	upstream	+	phosphoenolpyruvate carboxykinase%2C cytosolic [GTP]-like	29.098 kb
+XR_003477013.1	-	NW_020870513.1	XM_027371591.1	2_U	not DE	upstream	+	neurotrimin-like	69.140 kb
+XR_003477013.1	-	NW_020870513.1	XM_027371590.1	1_D	not DE	downstream	+	serine hydroxymethyltransferase%2C cytosolic-like	76.338 kb
+XR_003477013.1	-	NW_020870513.1	XM_027371596.1	2_D	not DE	downstream	-	cuticle protein 7-like	202.969 kb
+XR_003477013.1	-	NW_020870513.1	XM_027371592.1	3_D	not DE	downstream	+	cuticle protein 21-like%2C transcript variant X1	225.091 kb
+XR_003477013.1	-	NW_020870513.1	XM_027371595.1	4_D	not DE	downstream	+	uncharacterized LOC113819359	236.836 kb
+XR_003477805.1	+	NW_020872368.1	XM_027381289.1	1_U	not DE	upstream	-	uncharacterized LOC113828349%2C transcript variant X1	12.073 kb
+XR_003477805.1	+	NW_020872368.1	XM_027381279.1	2_U	not DE	upstream	-	uncharacterized LOC113828340	112.142 kb
+XR_003477805.1	+	NW_020872368.1	XM_027381284.1	3_U	not DE	upstream	+	RNA-binding protein 42-like	116.137 kb
+XR_003477805.1	+	NW_020872368.1	XM_027381262.1	4_U	DE	upstream	+	basic proline-rich protein-like	117.025 kb
+XR_003477805.1	+	NW_020872368.1	XM_027381275.1	5_U	DE	upstream	-	COP9 signalosome complex subunit 5-like%2C transcript variant X2	130.819 kb
+XR_003477805.1	+	NW_020872368.1	XM_027381264.1	1_D	not DE	downstream	+	knirps-related protein-like	107.656 kb
+XR_003477805.1	+	NW_020872368.1	XM_027381283.1	2_D	DE	downstream	-	putative gamma-glutamylcyclotransferase CG2811%2C transcript variant X4	135.287 kb
+XR_003477805.1	+	NW_020872368.1	XM_027381265.1	3_D	not DE	downstream	-	microfibril-associated glycoprotein 4-like	182.497 kb
+XR_003477805.1	+	NW_020872368.1	XM_027381266.1	4_D	not DE	downstream	-	angiopoietin-1-like	184.160 kb
+XR_003477805.1	+	NW_020872368.1	XM_027381268.1	5_D	not DE	downstream	-	oxysterol-binding protein 1-like	239.973 kb
+XR_003476309.1	-	NW_020869751.1	XM_027364236.1	1_D	not DE	downstream	-	collagen alpha-1(II) chain-like	68.205 kb
+XR_003476309.1	-	NW_020869751.1	XM_027364237.1	2_D	DE	downstream	-	WD repeat-containing protein 47-like	103.100 kb
+XR_003476309.1	-	NW_020869751.1	XM_027364238.1	3_D	not DE	downstream	-	protein Star-like	124.466 kb
+XR_003476309.1	-	NW_020869751.1	XM_027364240.1	4_D	DE	downstream	+	uncharacterized LOC113812369	136.693 kb
+XR_003476309.1	-	NW_020869751.1	XM_027364239.1	5_D	not DE	downstream	-	proclotting enzyme-like	159.399 kb
+XR_003476046.1	-	NW_020869391.1	XM_027360592.1	1_U	DE	upstream	+	myc box-dependent-interacting protein 1-like	3.674 kb
+XR_003476046.1	-	NW_020869391.1	XM_027360591.1	2_U	not DE	upstream	-	BTB/POZ domain-containing protein KCTD8-like	136.491 kb
+XR_003476046.1	-	NW_020869391.1	XM_027360590.1	3_U	DE	upstream	-	trypsin-1-like	271.163 kb
+XR_003476046.1	-	NW_020869391.1	XM_027360589.1	4_U	DE	upstream	+	uncharacterized LOC113809100	280.360 kb
+XR_003476046.1	-	NW_020869391.1	XM_027360583.1	5_U	not DE	upstream	+	von Willebrand factor A domain-containing protein 7-like	289.657 kb
+XR_003476046.1	-	NW_020869391.1	XM_027360584.1	1_D	not DE	downstream	+	sialidase-like	28.056 kb
+XR_003476046.1	-	NW_020869391.1	XM_027360588.1	2_D	not DE	downstream	-	uncharacterized LOC113809099	38.123 kb
+XR_003476046.1	-	NW_020869391.1	XM_027360593.1	3_D	DE	downstream	-	uncharacterized LOC113809107	46.811 kb
+XR_003476046.1	-	NW_020869391.1	XM_027360595.1	4_D	not DE	downstream	-	ATP synthase subunit g%2C mitochondrial-like	74.992 kb
+XR_003476046.1	-	NW_020869391.1	XM_027360596.1	5_D	DE	downstream	+	uncharacterized LOC113809109	100.933 kb
