@@ -1,0 +1,127 @@
+**************
+<RUNNING DATE>
+************** 
+April 23 2024 
+*************************
+<PROGRAM CALL PARAMETERS>
+************************* 
+RunAllComparisionMain(../../resources/DifferentialExp,../../projects/yahel_godinez_ibt_unam_mx/hepatopancreas_wssv/count_table.txt,../../projects/yahel_godinez_ibt_unam_mx/hepatopancreas_wssv,fnCombinations=c(hep,hep_wssv),TOP=TRUE,fnUmbral=0.05,fnFilterValue=1,fnUmbralFoldChange=1.5,fnSelectMethods=123456,fnFileGzipTar=TRUE,fnBatch=c()) 
+ ............. Parameters list ............. 
+FDR/padjust cutoff: 0.05
+Count per million threshold: 1
+Log2FC cutoff: 1.5
+Selected methods: c("edgeR", "limma", "NOISeq", "DESeq2")
+*******************
+<SOFTWARE VERSIONS>
+******************* 
+R version 4.2.3 (2023-03-15)
+edgeR 3.40.2
+limma 3.54.2
+NOISeq 2.42.0
+DESeq2 1.38.3
+VennDiagram 1.7.3
+ggplot2 3.4.2
+UpSetR 1.4.0
+corrplot 0.92
+ComplexHeatmap 2.14.0
+grDevices 4.2.3
+grid 4.2.3
+*******************
+<ANALYSIS STARTS>
+******************* 
+******************
+<LOAD COUNT TABLE>
+****************** 
+[1] "      Read count table .......................... OK"
+*****************
+<DATA ANALYSIS>
+***************** 
+[1] "dataAnalysis(../../resources/DifferentialExp,fnCountTable,c(hep,hep,hep,hep_wssv,hep_wssv,hep_wssv),../../projects/yahel_godinez_ibt_unam_mx/hepatopancreas_wssv/DataAnalysis_Results/AllConditions, fnBatch= c())"
+[1] "    BoxPlotNorm     .......................... OK"
+[1] "    DensitiesPlot     .......................... OK"
+[1] "    CPMPlot     .......................... OK"
+[1] "    MDSPlot     .......................... OK"
+[1] "    PCAPlot     .......................... OK"
+*****************
+<DIFFERENTIAL EXPESION>
+***************** 
+[1] "      FILTER RAW COUNT TABLE .......................... OK"
+[1] "*************************  Running edgeR  *************************"
+[1] "RunedgeR(../../resources/DifferentialExp,fnCounTable,../../projects/yahel_godinez_ibt_unam_mx/hepatopancreas_wssv/edgeR_Results/hepvshep_wssv,TOP=TRUE,fnUmbral=0.05,fnUmbralFoldChange=1.5,fnSmearPlot=TRUE,fnVolcanoPlot=TRUE,fnBatch=(), fnConditions=c(hep,hep_wssv))"
+[1] "############"
+[1] "Samples:  hepvshep_wssv"
+[1] "############"
+[1] "      Objeto DGEList .......................... OK"
+[1] "      Normalizacion .......................... OK"
+[1] "      Dispersion estimation .......................... OK"
+[1] "      Differential expression estimation.......................... OK"
+[1] "      Abundance estimation .......................... OK"
+[1] "      Results table .......................... OK"
+[1] "      Top file .......................... OK"
+[1] "      Final Results table to file .......................... OK"
+[1] "      MDS Plot .......................... OK"
+[1] "      Smear plot .......................... OK"
+[1] "      Volcano plot .......................... OK"
+[1] "*************************  Running limma-Voom  *************************"
+[1] "Runlimma(../../resources/DifferentialExp,fnCounTable,../../projects/yahel_godinez_ibt_unam_mx/hepatopancreas_wssv/limma_Results/hepvshep_wssv,TOP=TRUE,fnUmbral=0.05,fnUmbralFoldChange=1.5,fnMDPlot=TRUE,fnBatch=(),fnConditions=c(hep,hep_wssv))"
+[1] "############"
+[1] "Samples:  hepvshep_wssv"
+[1] "############"
+[1] "      Objeto DGEList .......................... OK"
+[1] "      Normalizacion .......................... OK"
+[1] "      MDS Plot .......................... OK"
+[1] "      Voom transform .......................... OK"
+[1] "      lmfit estimation .......................... OK"
+[1] "      Differential expression estimation.......................... OK"
+[1] "      Abundance estimation .......................... OK"
+[1] "      Results table .......................... OK"
+[1] "      Top file .......................... OK"
+[1] "      Final Results table to file .......................... OK"
+[1] "      MD plot .......................... OK"
+[1] "*************************  Running NOISeq  *************************"
+[1] "RunNOISeq(../../resources/DifferentialExp,fnCounTable,../../projects/yahel_godinez_ibt_unam_mx/hepatopancreas_wssv/NOISeq_Results/hepvshep_wssv,TOP=TRUE,fnUmbral=0.05,fnUmbralFoldChange=1.5,fnBatch=(),fnConditions=c(hep,hep_wssv))"
+[1] "############"
+[1] "Samples:  hepvshep_wssv"
+[1] "############"
+[1] "      Objeto NOISeq .......................... OK"
+[1] "      PCA Plot .......................... OK"
+[1] "      Differential expression estimation.......................... OK"
+[1] "      Abundance estimation .......................... OK"
+[1] "      Results table .......................... OK"
+[1] "      Top file .......................... OK"
+[1] "      Final Results table to file .......................... OK"
+[1] "*************************  Running DESeq2  *************************"
+[1] "RunDESeq2(../../resources/DifferentialExp,fnCounTable,../../projects/yahel_godinez_ibt_unam_mx/hepatopancreas_wssv/DESeq2_Results/hepvshep_wssv,TOP=TRUE,fnUmbral=0.05,fnUmbralFoldChange=1.5,fnMAPlot=TRUE,fnBatch=(),fnConditions=c(hep,hep_wssv))"
+[1] "############"
+[1] "Samples:  hepvshep_wssv"
+[1] "############"
+[1] "      Objeto Dds .......................... OK"
+[1] "      Differential expression estimation.......................... OK"
+[1] "      Abundance estimation .......................... OK"
+[1] "      Results table .......................... OK"
+[1] "      Top file .......................... OK"
+[1] "      Final Results table to file .......................... OK"
+[1] "      PCA plot .......................... OK"
+[1] "      MA plot .......................... OK"
+*********************
+<INTEGRATION RESULTS>
+********************* 
+[1] "*************************  Running Venn Diagram  *******************"
+[1] "      VennDiagram .......................... OK"
+[1] "*************************  Running UpSetPlot  *******************"
+[1] "      Upset plot .......................... OK"
+[1] "*************************  Print info to file  *******************"
+[1] "      Print intersection info to file .......................... OK"
+[1] "      Print TOP intersection info to file .......................... OK"
+[1] "*************************  Running Heatmap  *************************"
+[1] "       Heatmap .......................... OK"
+[1] "      RunHeatmap intesrsect .......................... OK"
+[1] "*************************  Running Heatmap  *************************"
+[1] "       Heatmap .......................... OK"
+[1] "      RunHeatmap union .......................... OK"
+[1] "*************************  Running Data abundances  *******************"
+[1] "    \"abundances\"     .......................... OK"
+[1] "*************************  Running Data logFC  *******************"
+[1] "    \"logFC\"     .......................... OK"
+[1] "*************************  Running Data pval  *******************"
+[1] "    \"pval\"     .......................... OK"

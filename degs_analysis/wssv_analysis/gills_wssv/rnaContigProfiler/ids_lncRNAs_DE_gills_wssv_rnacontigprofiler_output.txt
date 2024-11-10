@@ -1,0 +1,344 @@
+lncRNA XR_003475879.1 in contig NW_020869183.1 (strand +):
+  Upstream mRNA: XM_027358591.1 (not DE), Distance: 8977, Strand: +, Product: mucin-2-like
+  Downstream mRNA: XM_027358585.1 (not DE), Distance: 62248, Strand: -, Product: uncharacterized LOC113807353
+
+lncRNA XR_003477060.1 in contig NW_020868524.1 (strand +):
+  Upstream mRNA: XM_027372108.1 (not DE), Distance: 27525, Strand: -, Product: uncharacterized LOC113819880
+  Downstream mRNA: XM_027372142.1 (not DE), Distance: 711, Strand: +, Product: carbohydrate sulfotransferase 11-like
+
+lncRNA XR_003477627.1 in contig NW_020871588.1 (strand -):
+  Upstream mRNA: XM_027378902.1 (not DE), Distance: 14576, Strand: -, Product: protein unc-93 homolog A-like
+  Downstream mRNA: XM_027378903.1 (not DE), Distance: 67, Strand: -, Product: UNC93-like protein
+
+lncRNA XR_003476932.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 1650, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 56168, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003476398.1 in contig NW_020868458.1 (strand +):
+  Upstream mRNA: XM_027365322.1 (not DE), Distance: 176577, Strand: -, Product: putative nuclease HARBI1
+  Downstream mRNA: XM_027365417.1 (not DE), Distance: 12741, Strand: +, Product: activating signal cointegrator 1 complex subunit 2 homolog%2C transcript variant X1
+
+lncRNA XR_003476970.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 1811, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 55746, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003476371.1 in contig NW_020869844.1 (strand +):
+  Upstream mRNA: XM_027365097.1 (not DE), Distance: 1407, Strand: -, Product: homeobox protein TGIF2LX-like
+  Downstream mRNA: XM_027365098.1 (DE), Distance: 1464, Strand: +, Product: vitamin K-dependent protein C-like
+
+lncRNA XR_003476374.1 in contig NW_020869846.1 (strand +):
+  Upstream mRNA: XM_027365126.1 (DE), Distance: 94, Strand: +, Product: alpha-(1%2C3)-fucosyltransferase 7-like%2C transcript variant X1
+  Downstream mRNA: XM_027365131.1 (not DE), Distance: 4774, Strand: -, Product: uncharacterized LOC113813176
+
+lncRNA XR_003477873.1 in contig NW_020872479.1 (strand -):
+  Upstream mRNA: XM_027382190.1 (DE), Distance: 51634, Strand: +, Product: RNA-binding protein 25-like
+  No downstream mRNA found for lncRNA XR_003477873.1 in contig NW_020872479.1
+
+lncRNA XR_003476939.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 1811, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 56168, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003476365.1 in contig NW_020869837.1 (strand +):
+  No upstream mRNA found for lncRNA XR_003476365.1 in contig NW_020869837.1
+  Downstream mRNA: XM_027365025.1 (not DE), Distance: 271, Strand: +, Product: probable glutamate receptor
+
+lncRNA XR_003475526.1 in contig NW_020868774.1 (strand +):
+  Upstream mRNA: XM_027354340.1 (not DE), Distance: 8337, Strand: +, Product: coiled-coil domain-containing protein 93-like
+  Downstream mRNA: XM_027354341.1 (not DE), Distance: 20447, Strand: +, Product: chloride channel protein 2-like
+
+lncRNA XR_003476764.1 in contig NW_020870274.1 (strand +):
+  Upstream mRNA: XM_027369302.1 (not DE), Distance: 124662, Strand: -, Product: fucose-1-phosphate guanylyltransferase-like
+  Downstream mRNA: XM_027369307.1 (not DE), Distance: 242198, Strand: +, Product: uncharacterized LOC113817283
+
+lncRNA XR_003475976.1 in contig NW_020869259.1 (strand -):
+  Upstream mRNA: XM_027359380.1 (DE), Distance: 7494, Strand: -, Product: alpha-2-macroglobulin-like protein 1
+  Downstream mRNA: XM_027359382.1 (not DE), Distance: 30494, Strand: -, Product: alpha-2-macroglobulin-like protein 1
+
+lncRNA XR_003476695.1 in contig NW_020870172.1 (strand +):
+  Upstream mRNA: XM_027368379.1 (not DE), Distance: 3021, Strand: -, Product: dnaJ homolog subfamily C member 1-like
+  Downstream mRNA: XM_027368365.1 (not DE), Distance: 3096, Strand: -, Product: uncharacterized LOC113816322
+
+lncRNA XR_003477801.1 in contig NW_020872341.1 (strand +):
+  Upstream mRNA: XM_027381231.1 (not DE), Distance: 25966, Strand: -, Product: uncharacterized LOC113828296
+  Downstream mRNA: XM_027381226.1 (DE), Distance: 32, Strand: +, Product: follistatin-like
+
+lncRNA XR_003476295.1 in contig NW_020869736.1 (strand +):
+  Upstream mRNA: XM_027364110.1 (not DE), Distance: 2303, Strand: +, Product: uncharacterized LOC113812252%2C transcript variant X1
+  Downstream mRNA: XM_027364101.1 (not DE), Distance: 93255, Strand: +, Product: B9 domain-containing protein 2-like
+
+lncRNA XR_003477523.1 in contig NW_020871108.1 (strand +):
+  Upstream mRNA: XM_027377210.1 (not DE), Distance: 49128, Strand: +, Product: beta-ureidopropionase-like%2C transcript variant X1
+  Downstream mRNA: XM_027377224.1 (not DE), Distance: 2378, Strand: +, Product: platelet-derived growth factor receptor alpha-like
+
+lncRNA XR_003477569.1 in contig NW_020871249.1 (strand +):
+  Upstream mRNA: XM_027377806.1 (not DE), Distance: 24039, Strand: +, Product: facilitated trehalose transporter Tret1-like
+  Downstream mRNA: XM_027377795.1 (not DE), Distance: 302, Strand: +, Product: facilitated trehalose transporter Tret1-like
+
+lncRNA XR_003476926.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 1811, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 56168, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003474989.1 in contig NW_020872774.1 (strand +):
+  Upstream mRNA: XM_027351638.1 (not DE), Distance: 132062, Strand: +, Product: uncharacterized LOC113800839%2C transcript variant X1
+  Downstream mRNA: XM_027351641.1 (not DE), Distance: 244066, Strand: +, Product: predicted GPI-anchored protein 58
+
+lncRNA XR_003476557.1 in contig NW_020870026.1 (strand +):
+  Upstream mRNA: XM_027366894.1 (DE), Distance: 23781, Strand: -, Product: L-sorbose 1-dehydrogenase-like
+  Downstream mRNA: XM_027366937.1 (not DE), Distance: 21297, Strand: +, Product: uncharacterized LOC113814860
+
+lncRNA XR_003477221.1 in contig NW_020870801.1 (strand -):
+  Upstream mRNA: XM_027374401.1 (not DE), Distance: 9230, Strand: -, Product: alpha/beta-gliadin A-III-like%2C transcript variant X3
+  Downstream mRNA: XM_027374403.1 (DE), Distance: 16721, Strand: +, Product: alpha/beta-gliadin A-III-like
+
+lncRNA XR_003477222.1 in contig NW_020870801.1 (strand -):
+  Upstream mRNA: XM_027374401.1 (not DE), Distance: 20830, Strand: -, Product: alpha/beta-gliadin A-III-like%2C transcript variant X3
+  Downstream mRNA: XM_027374403.1 (DE), Distance: 4550, Strand: +, Product: alpha/beta-gliadin A-III-like
+
+lncRNA XR_003476921.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 1811, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 56168, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003477368.1 in contig NW_020870956.1 (strand -):
+  No upstream mRNA found for lncRNA XR_003477368.1 in contig NW_020870956.1
+  Downstream mRNA: XM_027375707.1 (not DE), Distance: 36437, Strand: -, Product: nuclear pore complex protein Nup153-like
+
+lncRNA XR_003477531.1 in contig NW_020871134.1 (strand -):
+  Upstream mRNA: XM_027377414.1 (not DE), Distance: 47223, Strand: -, Product: uncharacterized protein PB18E9.04c-like
+  Downstream mRNA: XM_027377415.1 (DE), Distance: 176, Strand: -, Product: mucin-5AC-like
+
+lncRNA XR_003475917.1 in contig NW_020869213.1 (strand +):
+  Upstream mRNA: XM_027358996.1 (not DE), Distance: 11559, Strand: -, Product: enoyl-CoA delta isomerase 2%2C mitochondrial-like
+  Downstream mRNA: XM_027358997.1 (DE), Distance: 12529, Strand: +, Product: b(0%2C+)-type amino acid transporter 1-like
+
+lncRNA XR_003477177.1 in contig NW_020870734.1 (strand +):
+  Upstream mRNA: XM_027373738.1 (not DE), Distance: 45207, Strand: -, Product: uncharacterized LOC113821250
+  Downstream mRNA: XM_027373739.1 (not DE), Distance: 9977, Strand: -, Product: GPI mannosyltransferase 3-like
+
+lncRNA XR_003476944.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 1811, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 56168, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003474980.1 in contig NW_020872759.1 (strand +):
+  Upstream mRNA: XM_027351493.1 (not DE), Distance: 1769, Strand: +, Product: uncharacterized LOC113800691
+  Downstream mRNA: XM_027351485.1 (not DE), Distance: 94200, Strand: +, Product: inversin-A-like
+
+lncRNA XR_003477872.1 in contig NW_020872479.1 (strand -):
+  Upstream mRNA: XM_027382190.1 (DE), Distance: 72048, Strand: +, Product: RNA-binding protein 25-like
+  No downstream mRNA found for lncRNA XR_003477872.1 in contig NW_020872479.1
+
+lncRNA XR_003474986.1 in contig NW_020872767.1 (strand -):
+  No upstream mRNA found for lncRNA XR_003474986.1 in contig NW_020872767.1
+  Downstream mRNA: XM_027351558.1 (not DE), Distance: 10082, Strand: +, Product: ATP-binding cassette sub-family A member 3-like
+
+lncRNA XR_003477391.1 in contig NW_020870991.1 (strand -):
+  No upstream mRNA found for lncRNA XR_003477391.1 in contig NW_020870991.1
+  Downstream mRNA: XM_027376038.1 (not DE), Distance: 9277, Strand: +, Product: extensin-like
+
+lncRNA XR_003475494.1 in contig NW_020868737.1 (strand +):
+  Upstream mRNA: XM_027354056.1 (not DE), Distance: 57, Strand: +, Product: uncharacterized LOC113803297%2C transcript variant X8
+  Downstream mRNA: XM_027354081.1 (DE), Distance: 6678, Strand: -, Product: heat shock 70 kDa protein 12A-like
+
+lncRNA XR_003476318.1 in contig NW_020869770.1 (strand -):
+  Upstream mRNA: XM_027364390.1 (not DE), Distance: 33782, Strand: +, Product: copine-8-like
+  Downstream mRNA: XM_027364412.1 (not DE), Distance: 22574, Strand: -, Product: mucin-6-like
+
+lncRNA XR_003476132.1 in contig NW_020869531.1 (strand +):
+  Upstream mRNA: XM_027362163.1 (not DE), Distance: 203556, Strand: +, Product: peptidyl-prolyl cis-trans isomerase 1-like
+  Downstream mRNA: XM_027362164.1 (not DE), Distance: 158016, Strand: +, Product: uncharacterized LOC113810480
+
+lncRNA XR_003477966.1 in contig NW_020872641.1 (strand +):
+  Upstream mRNA: XM_027383681.1 (not DE), Distance: 4174, Strand: +, Product: O-glucosyltransferase rumi homolog
+  Downstream mRNA: XM_027383686.1 (not DE), Distance: 10142, Strand: +, Product: uncharacterized LOC113830478
+
+lncRNA XR_003476708.1 in contig NW_020870182.1 (strand +):
+  Upstream mRNA: XM_027368487.1 (not DE), Distance: 4247, Strand: +, Product: mucin-5AC-like
+  Downstream mRNA: XM_027368488.1 (not DE), Distance: 4199, Strand: +, Product: HAUS augmin-like complex subunit 1
+
+lncRNA XR_003477366.1 in contig NW_020870956.1 (strand -):
+  No upstream mRNA found for lncRNA XR_003477366.1 in contig NW_020870956.1
+  Downstream mRNA: XM_027375707.1 (not DE), Distance: 54630, Strand: -, Product: nuclear pore complex protein Nup153-like
+
+lncRNA XR_003476853.1 in contig NW_020870395.1 (strand +):
+  Upstream mRNA: XM_027370595.1 (not DE), Distance: 100050, Strand: -, Product: proline-rich proteoglycan 2-like
+  No downstream mRNA found for lncRNA XR_003476853.1 in contig NW_020870395.1
+
+lncRNA XR_003476923.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 1811, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 56168, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003476928.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 1811, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 56168, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003476734.1 in contig NW_020870204.1 (strand -):
+  Upstream mRNA: XM_027368719.1 (not DE), Distance: 33370, Strand: -, Product: serine/threonine-protein kinase pkn3-like
+  Downstream mRNA: XM_027368731.1 (not DE), Distance: 7735, Strand: -, Product: dentin sialophosphoprotein-like%2C transcript variant X2
+
+lncRNA XR_003476735.1 in contig NW_020870204.1 (strand -):
+  Upstream mRNA: XM_027368719.1 (not DE), Distance: 33370, Strand: -, Product: serine/threonine-protein kinase pkn3-like
+  Downstream mRNA: XM_027368731.1 (not DE), Distance: 5035, Strand: -, Product: dentin sialophosphoprotein-like%2C transcript variant X2
+
+lncRNA XR_003477224.1 in contig NW_020870801.1 (strand -):
+  Upstream mRNA: XM_027374466.1 (DE), Distance: 8588, Strand: +, Product: monocarboxylate transporter 8-like
+  Downstream mRNA: XM_027374399.1 (not DE), Distance: 7424, Strand: -, Product: alpha/beta-gliadin A-III-like%2C transcript variant X1
+
+lncRNA XR_003475925.1 in contig NW_020869218.1 (strand -):
+  Upstream mRNA: XM_027359020.1 (not DE), Distance: 216371, Strand: +, Product: uncharacterized LOC113807704
+  Downstream mRNA: XM_027359021.1 (DE), Distance: 13146, Strand: +, Product: venom protease-like
+
+lncRNA XR_003476979.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 9607, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 50055, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003477346.1 in contig NW_020870916.1 (strand -):
+  Upstream mRNA: XM_027375350.1 (not DE), Distance: 51178, Strand: -, Product: uncharacterized LOC113822819%2C transcript variant X2
+  Downstream mRNA: XM_027375356.1 (not DE), Distance: 18361, Strand: +, Product: proline-rich protein HaeIII subfamily 1-like
+
+lncRNA XR_003477441.1 in contig NW_020871018.1 (strand -):
+  Upstream mRNA: XM_027376496.1 (not DE), Distance: 80165, Strand: -, Product: apoptogenic protein 1%2C mitochondrial-like
+  Downstream mRNA: XM_027376497.1 (not DE), Distance: 25538, Strand: +, Product: cell cycle checkpoint protein RAD17-like
+
+lncRNA XR_003477742.1 in contig NW_020872088.1 (strand +):
+  Upstream mRNA: XM_027380359.1 (not DE), Distance: 19799, Strand: +, Product: proline-rich extensin-like protein EPR1
+  Downstream mRNA: XM_027380357.1 (not DE), Distance: 126699, Strand: +, Product: fibrous sheath CABYR-binding protein-like
+
+lncRNA XR_003477537.1 in contig NW_020871135.1 (strand +):
+  Upstream mRNA: XM_027377449.1 (DE), Distance: 1290, Strand: -, Product: putative tyrosinase-like protein tyr-3
+  Downstream mRNA: XM_027377450.1 (not DE), Distance: 25999, Strand: +, Product: aggrecan core protein-like
+
+lncRNA XR_003475525.1 in contig NW_020868772.1 (strand -):
+  Upstream mRNA: XM_027354325.1 (not DE), Distance: 92880, Strand: -, Product: uncharacterized LOC113803537
+  Downstream mRNA: XM_027354327.1 (not DE), Distance: 22877, Strand: +, Product: glycine receptor subunit alpha-3-like
+
+lncRNA XR_003475483.1 in contig NW_020868714.1 (strand +):
+  Upstream mRNA: XM_027353870.1 (not DE), Distance: 311273, Strand: -, Product: putative leucine-rich repeat-containing protein DDB_G0290503
+  No downstream mRNA found for lncRNA XR_003475483.1 in contig NW_020868714.1
+
+lncRNA XR_003477491.1 in contig NW_020871082.1 (strand +):
+  Upstream mRNA: XM_027376991.1 (DE), Distance: 5830, Strand: +, Product: uncharacterized LOC113824252
+  No downstream mRNA found for lncRNA XR_003477491.1 in contig NW_020871082.1
+
+lncRNA XR_003476198.1 in contig NW_020869604.1 (strand +):
+  Upstream mRNA: XM_027362818.1 (not DE), Distance: 267165, Strand: -, Product: uncharacterized LOC113811146
+  Downstream mRNA: XM_027362819.1 (not DE), Distance: 91677, Strand: -, Product: proteoglycan 4-like
+
+lncRNA XR_003475491.1 in contig NW_020868731.1 (strand +):
+  No upstream mRNA found for lncRNA XR_003475491.1 in contig NW_020868731.1
+  Downstream mRNA: XM_027353948.1 (not DE), Distance: 8130, Strand: +, Product: sodium- and chloride-dependent GABA transporter 2-like
+
+lncRNA XR_003476942.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 1811, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 56168, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003476769.1 in contig NW_020870287.1 (strand +):
+  Upstream mRNA: XM_027369359.1 (not DE), Distance: 59, Strand: +, Product: uncharacterized LOC113817331%2C transcript variant X1
+  Downstream mRNA: XM_027369360.1 (not DE), Distance: 36384, Strand: +, Product: nuclear pore complex protein Nup85-like
+
+lncRNA XR_003477154.1 in contig NW_020868539.1 (strand +):
+  Upstream mRNA: XM_027373355.1 (not DE), Distance: 51818, Strand: +, Product: uncharacterized LOC113820948%2C transcript variant X1
+  Downstream mRNA: XM_027373407.1 (not DE), Distance: 9216, Strand: -, Product: uncharacterized LOC113820983
+
+lncRNA XR_003475652.1 in contig NW_020868938.1 (strand -):
+  Upstream mRNA: XM_027355912.1 (not DE), Distance: 24428, Strand: -, Product: uncharacterized LOC113804999
+  Downstream mRNA: XM_027355922.1 (DE), Distance: 211, Strand: -, Product: smad nuclear-interacting protein 1-like
+
+lncRNA XR_003477218.1 in contig NW_020870795.1 (strand +):
+  Upstream mRNA: XM_027374298.1 (not DE), Distance: 9578, Strand: -, Product: spermine synthase-like
+  Downstream mRNA: XM_027374301.1 (not DE), Distance: 10024, Strand: -, Product: histone-arginine methyltransferase CARMER-like%2C transcript variant X2
+
+lncRNA XR_003477440.1 in contig NW_020871018.1 (strand -):
+  Upstream mRNA: XM_027376496.1 (not DE), Distance: 80173, Strand: -, Product: apoptogenic protein 1%2C mitochondrial-like
+  Downstream mRNA: XM_027376497.1 (not DE), Distance: 25539, Strand: +, Product: cell cycle checkpoint protein RAD17-like
+
+lncRNA XR_003476378.1 in contig NW_020869857.1 (strand +):
+  Upstream mRNA: XM_027365221.1 (not DE), Distance: 2178, Strand: -, Product: inactive ubiquitin carboxyl-terminal hydrolase MINDY-4B-like
+  Downstream mRNA: XM_027365224.1 (not DE), Distance: 37473, Strand: -, Product: store-operated calcium entry regulator STIMATE-like
+
+lncRNA XR_003475593.1 in contig NW_020868868.1 (strand +):
+  No upstream mRNA found for lncRNA XR_003475593.1 in contig NW_020868868.1
+  Downstream mRNA: XM_027355226.1 (not DE), Distance: 10081, Strand: +, Product: sex determination protein fruitless-like
+
+lncRNA XR_003476741.1 in contig NW_020870219.1 (strand +):
+  Upstream mRNA: XM_027368907.1 (not DE), Distance: 213837, Strand: -, Product: proline-rich protein 1-like
+  Downstream mRNA: XM_027368888.1 (not DE), Distance: 132166, Strand: -, Product: xylose isomerase-like
+
+lncRNA XR_003477528.1 in contig NW_020868581.1 (strand -):
+  Upstream mRNA: XM_027377636.1 (not DE), Distance: 10486, Strand: +, Product: myrosinase-binding protein 2-like
+  Downstream mRNA: XM_027377379.1 (not DE), Distance: 26450, Strand: -, Product: microtubule-associated protein futsch-like%2C transcript variant X3
+
+lncRNA XR_003476515.1 in contig NW_020869994.1 (strand -):
+  Upstream mRNA: XM_027366560.1 (not DE), Distance: 5713, Strand: +, Product: extensin-like
+  Downstream mRNA: XM_027366561.1 (not DE), Distance: 34270, Strand: -, Product: uncharacterized LOC113814518
+
+lncRNA XR_003477145.1 in contig NW_020870688.1 (strand -):
+  Upstream mRNA: XM_027373233.1 (not DE), Distance: 31556, Strand: -, Product: ATP-binding cassette sub-family D member 3-like
+  Downstream mRNA: XM_027373263.1 (not DE), Distance: 20511, Strand: +, Product: cubilin-like
+
+lncRNA XR_003477874.1 in contig NW_020872479.1 (strand -):
+  Upstream mRNA: XM_027382190.1 (DE), Distance: 28328, Strand: +, Product: RNA-binding protein 25-like
+  No downstream mRNA found for lncRNA XR_003477874.1 in contig NW_020872479.1
+
+lncRNA XR_003474985.1 in contig NW_020872767.1 (strand -):
+  Upstream mRNA: XM_027351556.1 (not DE), Distance: 44204, Strand: +, Product: integumentary mucin A.1-like
+  Downstream mRNA: XM_027351560.1 (not DE), Distance: 13610, Strand: -, Product: neurexin-1-like
+
+lncRNA XR_003476242.1 in contig NW_020869660.1 (strand +):
+  Upstream mRNA: XM_027363376.1 (not DE), Distance: 76578, Strand: -, Product: NADP-dependent malic enzyme-like%2C transcript variant X3
+  Downstream mRNA: XM_027363348.1 (not DE), Distance: 9500, Strand: -, Product: uncharacterized LOC113811584
+
+lncRNA XR_003475534.1 in contig NW_020868786.1 (strand +):
+  Upstream mRNA: XM_027354449.1 (not DE), Distance: 40043, Strand: -, Product: facilitated trehalose transporter Tret1-like
+  Downstream mRNA: XM_027354451.1 (DE), Distance: 15432, Strand: -, Product: alpha/beta-gliadin A-III-like%2C transcript variant X1
+
+lncRNA XR_003476840.1 in contig NW_020870381.1 (strand +):
+  Upstream mRNA: XM_027370497.1 (not DE), Distance: 9543, Strand: +, Product: proto-oncogene tyrosine-protein kinase receptor Ret-like
+  Downstream mRNA: XM_027370469.1 (not DE), Distance: 3864, Strand: -, Product: protein tincar-like
+
+lncRNA XR_003477784.1 in contig NW_020872250.1 (strand -):
+  Upstream mRNA: XM_027380968.1 (not DE), Distance: 52576, Strand: +, Product: protein pxr1-like
+  Downstream mRNA: XM_027380970.1 (not DE), Distance: 71019, Strand: +, Product: uncharacterized LOC113828029%2C transcript variant X2
+
+lncRNA XR_003476963.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 1811, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 56168, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003476366.1 in contig NW_020869837.1 (strand +):
+  No upstream mRNA found for lncRNA XR_003476366.1 in contig NW_020869837.1
+  Downstream mRNA: XM_027365025.1 (not DE), Distance: 271, Strand: +, Product: probable glutamate receptor
+
+lncRNA XR_003476177.1 in contig NW_020868439.1 (strand -):
+  Upstream mRNA: XM_027362830.1 (not DE), Distance: 16178, Strand: -, Product: PR domain zinc finger protein 4-like
+  Downstream mRNA: XM_027362843.1 (not DE), Distance: 81700, Strand: -, Product: transmembrane protein 131-like
+
+lncRNA XR_003475594.1 in contig NW_020868868.1 (strand +):
+  Upstream mRNA: XM_027355233.1 (not DE), Distance: 17464, Strand: -, Product: cyclin-G-associated kinase-like
+  Downstream mRNA: XM_027355227.1 (DE), Distance: 291952, Strand: -, Product: GPI transamidase component PIG-S-like
+
+lncRNA XR_003477979.1 in contig NW_020872660.1 (strand -):
+  Upstream mRNA: XM_027383809.1 (not DE), Distance: 23394, Strand: -, Product: transcription initiation factor TFIID subunit 13-like%2C transcript variant X5
+  Downstream mRNA: XM_027383795.1 (not DE), Distance: 6842, Strand: +, Product: signal recognition particle subunit SRP68-like
+
+lncRNA XR_003475690.1 in contig NW_020869006.1 (strand +):
+  Upstream mRNA: XM_027356521.1 (not DE), Distance: 1699, Strand: +, Product: eukaryotic translation initiation factor 3 subunit C-like
+  Downstream mRNA: XM_027356530.1 (not DE), Distance: 9527, Strand: +, Product: uncharacterized LOC113805528
+
+lncRNA XR_003477775.1 in contig NW_020872193.1 (strand +):
+  Upstream mRNA: XM_027380782.1 (not DE), Distance: 7116, Strand: +, Product: tricarboxylate transport protein%2C mitochondrial-like
+  Downstream mRNA: XM_027380787.1 (not DE), Distance: 415, Strand: +, Product: sulfotransferase 1C4-like
+
+lncRNA XR_003476946.1 in contig NW_020868307.1 (strand -):
+  Upstream mRNA: XM_027371716.1 (not DE), Distance: 1811, Strand: -, Product: pollen-specific leucine-rich repeat extensin-like protein 2
+  Downstream mRNA: XM_027371807.1 (not DE), Distance: 56168, Strand: +, Product: axoneme-associated protein mst101(2)-like
+
+lncRNA XR_003475539.1 in contig NW_020868347.1 (strand +):
+  Upstream mRNA: XM_027354443.1 (not DE), Distance: 653, Strand: +, Product: 40S ribosomal protein S10-like%2C transcript variant X1
+  Downstream mRNA: XM_027354560.1 (not DE), Distance: 49359, Strand: -, Product: growth hormone-regulated TBC protein 1-A-like
+
+lncRNA XR_003476078.1 in contig NW_020869451.1 (strand +):
+  Upstream mRNA: XM_027361416.1 (not DE), Distance: 8209, Strand: +, Product: uncharacterized LOC113809734
+  Downstream mRNA: XM_027361422.1 (not DE), Distance: 6569, Strand: -, Product: protoheme IX farnesyltransferase%2C mitochondrial-like
+
+lncRNA XR_003477939.1 in contig NW_020872600.1 (strand -):
+  Upstream mRNA: XM_027383223.1 (not DE), Distance: 74, Strand: -, Product: lateral signaling target protein 2 homolog
+  Downstream mRNA: XM_027383222.1 (not DE), Distance: 225255, Strand: +, Product: uncharacterized LOC113830035
+
