@@ -1,5 +1,5 @@
 # Snakemake Workflow for RNA-Seq Data Processing
-# Author: Yahel Godinez y Nefte Yanez
+# Author: Yahel Godinez
 # Institution: National Autonomous University of Mexico
 # Department: Institute of Biotechnology
 # Email: yahel.godinez@ibt.unam.mx
@@ -12,9 +12,9 @@
 #
 # Tool Versions:
 # - FastQC: v0.11.9
-# - Bowtie2: v2.4.2
-# - Samtools: v1.10
-# - R: v4.0.3 (for generating the count table)
+# - Bowtie2: v2.4.4
+# - Samtools: v1.13
+# - R: v4.3.1
 #
 # Required Directories:
 # - data/: Contains raw .fastq.gz files.
